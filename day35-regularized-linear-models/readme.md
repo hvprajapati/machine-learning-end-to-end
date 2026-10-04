@@ -9,7 +9,7 @@
 | [`theory.md`](theory.md) | Overfitting, Ridge loss, coefficient behaviour, bias–variance, closed form & gradient descent, geometry, scaling, interview questions | **1. Read first** |
 | [`01-ridge-intuition.ipynb`](01-ridge-intuition.ipynb) | See overfitting → the penalty idea → Ridge on a line, a polynomial, and real diabetes data → choosing α with `RidgeCV` | **2** |
 | [`02-ridge-key-understandings.ipynb`](02-ridge-key-understandings.ipynb) | Four pictures: coefficients shrink, big ones shrink most, bias–variance trade-off, loss curve & circle geometry | **3** |
-| [`03-ridge-from-scratch.ipynb`](03-ridge-from-scratch.ipynb) | Ridge three ways (1-feature formula, normal equation, gradient descent), each matched against sklearn | **4** |
+| [`03-EXTRA-ridge-from-scratch.ipynb`](03-EXTRA-ridge-from-scratch.ipynb) | **EXTRA (optional).** Ridge three ways (1-feature formula, normal equation, gradient descent), each matched against sklearn | **4** |
 
 ## How to read the notebooks
 - ✍️ **Core code: learn this.** marks the code you should understand and be able to write.

@@ -9,7 +9,7 @@ Dataset: **Social Network Ads**: predict whether a user buys an SUV from their *
 |---|---|---|
 | [`theory.md`](theory.md) | Algorithm, distance metrics, worked example by hand, choosing K, scaling, weighted voting, K-NN regression, complexity, curse of dimensionality, interview questions | **1. Read first** |
 | [`01-knn-classification.ipynb`](01-knn-classification.ipynb) | Explore data → scale → train K-NN → see which neighbours voted → evaluate → decision boundary → scaling experiment → choosing K with cross-validation | **2** |
-| [`02-knn-from-scratch.ipynb`](02-knn-from-scratch.ipynb) | Distance → sort → vote in NumPy, the hand example verified, a `MyKNN` class that matches scikit-learn exactly | **3** |
+| [`02-EXTRA-knn-from-scratch.ipynb`](02-EXTRA-knn-from-scratch.ipynb) | **EXTRA (optional).** Distance → sort → vote in NumPy, the hand example verified, a `MyKNN` class that matches scikit-learn exactly | **3** |
 | `Social_Network_Ads.csv` | 400 users: `Age`, `EstimatedSalary`, `Purchased` (0/1) | data |
 
 ## How to read the notebooks

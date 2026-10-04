@@ -79,7 +79,7 @@ Training data (two classes, R = red, B = blue) and a query point **Q = (3, 2)**:
 | 5 | F, B, C, A, D | R: 3, B: 2 | **Red** |
 
 **The choice of K changes the answer.** One blue point happens to be closest, but most of the neighbourhood is red.
-`02-knn-from-scratch.ipynb` reproduces this table in code.
+`02-EXTRA-knn-from-scratch.ipynb` reproduces this table in code.
 
 ---
 

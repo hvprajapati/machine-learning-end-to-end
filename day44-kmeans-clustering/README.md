@@ -8,7 +8,7 @@ The first **unsupervised learning** algorithm in this series: group unlabeled da
 |---|---|---|
 | [`theory.md`](theory.md) | Complete theory: objective, algorithm, worked example by hand, k-means++, choosing K, scaling, limitations, interview questions | **1. Read first** |
 | [`01-kmeans-sklearn.ipynb`](01-kmeans-sklearn.ipynb) | K-Means with scikit-learn on student data (CGPA, IQ): elbow method, silhouette score, effect of scaling, predicting new points, 3-D example | **2** |
-| [`02-kmeans-from-scratch.ipynb`](02-kmeans-from-scratch.ipynb) | Build K-Means yourself: verify the hand example, watch centroids move, see local minima, match sklearn | **3** |
+| [`02-EXTRA-kmeans-from-scratch.ipynb`](02-EXTRA-kmeans-from-scratch.ipynb) | **EXTRA (optional).** Build K-Means yourself: verify the hand example, watch centroids move, see local minima, match sklearn | **3** |
 | [`kmeans.py`](kmeans.py) | From-scratch `KMeans` class used by notebook 02 and `app.py` | reference |
 | [`app.py`](app.py) | Script version: runs the scratch implementation, compares with sklearn, plots clusters | optional |
 | `student_clustering.csv` | 200 students × 2 features (`cgpa`, `iq`), no labels | data |

@@ -1,7 +1,7 @@
 # K-Means Clustering: Complete Theory
 
 > Read this file first, then open the notebooks. Every idea here is used in code in
-> `01-kmeans-sklearn.ipynb` or `02-kmeans-from-scratch.ipynb`.
+> `01-kmeans-sklearn.ipynb` or `02-EXTRA-kmeans-from-scratch.ipynb`.
 
 ---
 
@@ -147,7 +147,7 @@ WCSS drops to **4.0**.
 Re-assigning gives the same clusters {A, B, E} and {C, D, F}, so the centroids do not move.
 **Converged.** Final WCSS = 4.0.
 
-`02-kmeans-from-scratch.ipynb` runs this exact example with code and checks these numbers.
+`02-EXTRA-kmeans-from-scratch.ipynb` runs this exact example with code and checks these numbers.
 
 ---
 
